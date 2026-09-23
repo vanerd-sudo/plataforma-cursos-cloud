@@ -1,0 +1,28 @@
+{
+  "name": "plataforma-cursos-cloud",
+  "version": "1.0.0",
+  "description": "Repositorio central para el proyecto de Desarrollo de Aplicaciones Web en la Nube y Móviles.\r **Equipo Líder:** Código Chisme.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanerd-sudo/plataforma-cursos-cloud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vanerd-sudo/plataforma-cursos-cloud/issues"
+  },
+  "homepage": "https://github.com/vanerd-sudo/plataforma-cursos-cloud#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

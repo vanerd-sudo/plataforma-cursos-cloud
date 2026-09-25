@@ -42,5 +42,11 @@ Sus mensajes deben explicar claramente qué hicieron:
 - `refactor:` Mejoras al código sin alterar su funcionamiento.
 
 ### 3. Pull Requests (PR) y Revisiones
-- Para unir su trabajo a la rama principal, el equipo debe abrir un Pull Request hacia `main`.
-- Ningún PR se aprueba automáticamente. Requiere la revisión de calidad y autorización explícita del equipo líder (Código Chisme).
+
+- Ningún integrante debe realizar commits directamente en `main` o `develop`.
+- Cada equipo deberá trabajar exclusivamente en la rama asignada a su actividad.
+- Al terminar una actividad, deberá abrir un Pull Request desde su rama de trabajo hacia `develop`.
+- Todo Pull Request requiere la revisión y aprobación de al menos un integrante de Código Chisme.
+- Una vez integrados y validados los cambios en `develop`, Código Chisme determinará cuándo están listos para pasar a `main`.
+- La rama `main` se reservará para versiones estables del proyecto.
+- La rama `profesor` se utilizará para presentar y revisar avances académicos.

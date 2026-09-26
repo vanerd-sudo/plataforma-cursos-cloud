@@ -1,4 +1,4 @@
-# Plataforma Global de Cursos Multi-Idioma
+# Plataforma Global de Cursos
 
 Repositorio central para el proyecto de Desarrollo de Aplicaciones Web en la Nube y Móviles.
 **Equipo Líder (Arquitectura y QA):** Código Chisme.
